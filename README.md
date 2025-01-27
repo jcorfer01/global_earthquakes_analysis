@@ -8,7 +8,7 @@ To finish the analysis of the data received, I have included some statistical va
 ## Datasets Description:
 Inside the USGS website there is a [Event Terms Documentation](https://earthquake.usgs.gov/data/comcat/data-eventterms.php#mag) with the data type, typical values and description for each element of the JSON file.
 <br><br>
-Here I include each field used in the analysis with a brief description taken from the official documentation:
+Here I include each element used in the analysis with a brief description taken from the official documentation:
 <br>
 <ul>
   <li>id: A (generally) two-character network identifier with a (generally) eight-character network-assigned code.</li>
